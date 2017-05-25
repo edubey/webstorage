@@ -7,7 +7,7 @@ JS library to support localStorage/SessionStorage
 * How to use
 
 For localStorage
-customLocalStorage.setItem("user_name", "john");
+* customLocalStorage.setItem("user_name", "john");
 
 For sessionStorage
-customSessionStorage.setItem("user_name", "john");
+* customSessionStorage.setItem("user_name", "john");
